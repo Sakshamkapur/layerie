@@ -1,0 +1,9 @@
+.jsoninput{
+    width: 100%;
+    border-radius: 5px;
+    min-height: 60vh;
+    height: 100%;
+    resize: vertical;
+    padding: 20px;
+    box-sizing: border-box;
+}

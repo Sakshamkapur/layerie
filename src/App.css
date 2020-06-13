@@ -1,0 +1,18 @@
+body {
+  background-color: #282c34;
+  min-height: 100vh;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+.container{
+  width: 80vw;
+  height: 80vh;
+  padding: 5% 0;
+  box-sizing: border-box;
+  margin: 0 auto;
+}
+
+.instructions p{
+  font-size: 16px;
+  font-weight: 700;
+}
